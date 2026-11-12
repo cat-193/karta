@@ -1,0 +1,4 @@
+[21-Jun-2021 16:35:32 UTC] PHP Warning:  unpack(): Type V: not enough input, need 4, have 0 in /home/rdtrzcvl/public_html/administrator/components/com_joomlaupdate/restore.php on line 4543
+[21-Jun-2021 16:35:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rdtrzcvl/public_html/administrator/components/com_joomlaupdate/restore.php on line 4546
+[21-Jun-2021 16:35:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rdtrzcvl/public_html/administrator/components/com_joomlaupdate/restore.php on line 4551
+[21-Jun-2021 16:35:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/rdtrzcvl/public_html/administrator/components/com_joomlaupdate/restore.php on line 4563
